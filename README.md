@@ -1,4 +1,4 @@
-# Text-Summarizer-App
+# Text-Summarizer-Pro
 This is a Text Summary generator app.Either you can give it a text to summarize or you can upload a document in the upload option.It will seamlessly summarize your text paragraphs and documents.
 
 Abstractive summarization is the process of generating a summary of a text by understanding its meaning and creating a new text that conveys the same information in a shorter form. Abstractive methods employ more powerful natural language processing techniques to interpret text and generate new summary text, as opposed to selecting the most representative existing excerpts to perform the summarization. 
